@@ -1,0 +1,7 @@
+langchain
+langchain-community
+langchain-nvidia-ai-endpoints
+langgraph
+tavily-python
+streamlit
+python-dotenv
